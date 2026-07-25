@@ -1,0 +1,2 @@
+# KNN & Apriori Association Rules Model Artifact (.pkl)
+# Algorithmic Pipeline: Scikit-learn NearestNeighbors + MLxtend Apriori

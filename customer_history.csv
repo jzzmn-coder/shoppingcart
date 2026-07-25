@@ -1,0 +1,6 @@
+customer_id,customer_name,week_1_purchases,week_2_purchases,week_3_purchases,total_spent_inr,loyalty_tier,frequency_score
+C101,Rahul Sharma,"P002,P010,P004","P002,P003,P010","P002,P005,P006",4850,Gold,8.5
+C102,Priya Patel,"P001,P008,P003","P001,P008,P007","P001,P006,P008",3200,Silver,6.2
+C103,Amit Verma,"P009,P011,P012","P009,P012,P002","P009,P011,P012",9400,Platinum,9.8
+C104,Sneha Gupta,"P003,P005,P007","P002,P003,P005","P003,P005,P006",2150,Bronze,4.1
+C105,Vikram Singh,"P010,P011,P004","P010,P002,P004","P010,P011,P005",7600,Gold,7.9

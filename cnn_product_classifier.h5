@@ -1,0 +1,4 @@
+# AI Autonomous Shopping Cart & Smart Billing System Model Checkpoint
+# Model: CNN Product Classifier (MobileNetV2 Transfer Learning Architecture)
+# Format: HDF5 (.h5)
+# Classes: [Coca-Cola, Fresh Milk, Wheat Bread, Eggs, Butter, Cheese, Jam, Dark Chocolate, Green Apples, Basmati Rice, Olive Oil, Greek Yogurt]
